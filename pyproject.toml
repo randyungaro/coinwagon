@@ -1,0 +1,22 @@
+[project]
+name = "coinwagon"
+version = "0.1.0"
+description = "A fast cryptocurrency CLI tool implemented in Rust"
+authors = [{ name = "Randy Ungaro", email = "xrandyungarox@example.com" }]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+   "Programming Language :: Python :: 3",
+   "Programming Language :: Rust",
+   "License :: OSI Approved :: MIT License",
+]
+
+[build-system]
+requires = ["maturin>=1.0,<2.0"]
+build-backend = "maturin"
+
+
+[project.urls]
+Homepage = "https://github.com/randyungaro/coinwagon"
+Repository = "https://github.com/randyungaro/coinwagon"
