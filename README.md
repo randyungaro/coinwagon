@@ -1,11 +1,13 @@
 
-# Coinwagon
+![08ddf93e-273d-4b4f-ad20-5beac9a8ee87---](https://github.com/user-attachments/assets/071d53e5-3677-4a18-8df1-01fdaf6c67f0)
+
 
 # 🪙 Coinwagon
 
 
-A fast, reliable Python package for cryptocurrency operations built with Rust. 
+A fast, reliable Python package for cryptocurrency operations built with Rust.
 Get real-time prices, check wallet balances, and manage multiple addresses with ease.
+Which inspired and implement the main features of [Moneywagon](https://github.com/priestc/moneywagon)
 
 ## ✨ Features
 
@@ -238,6 +240,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Support
 
+Buy me Cup of Coffee
 
+BTC : bc1qxk3enn909extqfp57fvgfgve5xcw66cusd04se
 
 ---
