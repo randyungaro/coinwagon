@@ -27,13 +27,6 @@ Which inspired and implement the main features of [Moneywagon](https://github.co
 pip install coinwagon
 ```
 
-### From Source
-```bash
-git clone https://github.com/randyungaro/coinwagon.git
-cd coinwagon
-pip install maturin
-maturin develop
-```
 
 ## 📖 Quick Start
 
